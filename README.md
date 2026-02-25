@@ -6,7 +6,7 @@ A web-based, interactive 3D Animation State Machine (FSM) editor built for **Bab
 Controlling complex animation flows and state transitions using purely code or Babylon.js's native Inspector can be highly unintuitive and difficult to manage. To solve this, this project adopts the visual, node-based approach of **Unity's Mecanim System**. It allows developers to visually map out animation states, connect transitions, and define blending rules in a highly intuitive web interface, drastically streamlining the 3D character animation workflow.
 
 🔗 **Live Demo:** [https://un1tone.github.io/FSM-Editor/](https://un1tone.github.io/FSM-Editor/)
-<img width="1900" height="941" alt="FSM Editor Interface" src="![Image](https://github.com/user-attachments/assets/1f85b212-d6e8-4b84-a7b1-3707c601fe71)" />
+![Image](https://github.com/user-attachments/assets/1f85b212-d6e8-4b84-a7b1-3707c601fe71)
 
 ## 🛠 Tech Stack
 
