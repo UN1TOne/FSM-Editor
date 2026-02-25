@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/android-chrome-192x192',
+        url: '/android-chrome-192x192.png',
         media: '(prefers-color-scheme: light)',
       },
       {
@@ -20,8 +20,8 @@ export const metadata: Metadata = {
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/public/favicon.ico',
-        type: 'image/svg+xml',
+        url: '/favicon.ico',
+        type: 'image/x-icon',
       },
     ],
     apple: '/apple-touch-icon.png',
