@@ -8,13 +8,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Animation State Machine Editor',
   description: 'Unity-style Animation State Machine Editor built with Babylon.js, React Flow, and Zustand',
-  icons: {
-    icon: [
-      { url: '/favicon.ico', type: 'image/x-icon' },
-      { url: '/icon.png', type: 'image/png' },
-    ],
-    apple: '/apple-icon.png',
-  },
 }
 
 export default function RootLayout({
