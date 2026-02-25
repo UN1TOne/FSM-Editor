@@ -1,9 +1,9 @@
 name: Deploy Next.js site to Pages
 
 on:
-  # It runs automatically whenever the code is pushed to the main branch.
+  # It runs automatically whenever the code is pushed to the master branch.
   push:
-    branches: ["main"]
+    branches: ["master"]
 
   # Enables you to run the script manually on the GitHub Actions tab.
   workflow_dispatch:
